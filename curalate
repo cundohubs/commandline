@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+CURALATEPATH="/usr/local/Library/Taps/curalate" exec "/Users/facundo/git/curacmd/src/main/python/curalate.py" "$@"
